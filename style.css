@@ -1,0 +1,454 @@
+body {
+    background-color: #fff;
+    font-style: normal;
+}
+.header-section {
+    background-color: #32529b;
+    border-bottom: 1px solid #59658b;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.list {
+    float: right;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+.list li {
+    margin: 5px 20px 5px 5px;
+    display: inline-block;
+}
+
+.list li a{
+    color: #fff;
+}
+
+.list li a:hover{
+    text-decoration: none;
+}
+
+.buybtn {
+    margin: 18px 0px;
+    background-color: #fff !important;
+    border-radius: 22px;
+    font-size: 14px;
+    color: #32539B !important;
+}
+
+.banner-section {
+    /* background-color: #31488e; */
+     background: linear-gradient(190deg, #3158a4 0%, #31488e 35%, #31488e 100%);
+    color: #fff;
+    position: relative;
+    padding: 20px;
+}
+
+.cust-button:hover{
+    background-color: #3260AE;
+    color: #fff;
+    box-shadow: 1px 3px 17px #aaaaaa;
+}
+
+
+.banner-header-content {
+    text-align: initial;
+    font-size: 25px;
+}
+
+.banner-content {
+    font-size: 14px;
+}
+
+.banner-image {   
+    height: 400px;
+    width: 400px;
+}
+
+.banner-content-section {
+    position: absolute;
+    top: 34%;
+    padding-right: 100px;
+}
+
+.data-analysis {
+    width: 20%;
+    border-radius: 50%;
+    border: 1x solid #d3c8c8;
+}
+
+.deserve-icon{
+    width: 60px;
+}
+
+.data {
+    opacity: 0.6;
+}
+
+.second-section {
+    padding: 87px 0 0;
+    background-color: #FFFFFF;
+}
+
+.second-section-content {
+    padding: 40px;
+    box-shadow: 1px 3px 17px #aaaaaa;
+}
+
+.marketing {
+    color: #fff;
+    padding: 100px 30px 100px 0;
+}
+
+.records-section{
+    background-color: #0d3d94;
+}
+
+
+.second-section .robust-section{
+    padding-top: 70px;
+}
+
+
+.digital-prod-section{
+    background-color: #0F246B;;
+}
+
+.digital-image{
+    background-image: url('./assets/grow-marketing.jpg');
+    background-size: cover;
+}
+
+.metric-name{
+    color: #8A9BB5;
+}
+.metric-count{
+    font-weight: bold;
+}
+
+.metrics-section{
+    padding-bottom: 100px;
+}
+
+
+
+.better-section {
+    background-color: #0F246B;
+    margin-bottom: 100px;
+}
+
+.better-main-section {
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+}
+
+.better-section-wrapper {
+    position: relative;
+    padding: 77px 0 130px;
+}
+
+.sub-section-head {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.tiles-section {
+    position: absolute;
+    bottom: -81px;
+}
+
+.tile-icon {
+    width: 6%;
+}
+
+.deserve-tile-content {
+    width: 80%;
+    vertical-align: middle;
+    margin-left: 40px;
+    text-align: left;
+}
+
+.tile-wrapper {
+    width: 100%;
+    display: inline-block;
+    background-color: #fff;
+    padding: 20px 19px;
+    border-radius: 4px;
+    box-shadow: 1px 3px 17px #aaaaaa;
+    margin-top: 15px;
+}
+
+.tile-content {
+    color: #8A9BB5;
+}
+
+
+.robust-section {
+    padding: 100px 0px;
+}
+
+.robust-content {
+    margin: 22px 0;
+}
+
+.cust-button {
+    background-color: #3260AE;
+    color: #fff;
+    border: none;
+    padding: 10px 34px;
+    border-radius: 24px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.robust-header {
+    color: #253A5E;
+    font-weight: bolder;
+}
+
+.testimonials-section {
+    padding: 100px;
+    background-color: #F1FAFC;
+}
+
+.testimonial-header-text {
+    color: #304060;
+    font-weight: bolder;
+    margin-bottom: 40px;
+}
+
+.carousel-inner {
+    box-shadow: 1px 3px 17px #aaaaaa;
+    background-color: #fff;
+}
+
+.carousel-item {
+    padding: 60px;
+}
+
+.testimonials-section .carousel-control-next,
+.testimonials-section .carousel-control-prev {
+    height: 50px;
+    width: 50px;
+    border-radius: 44px;
+    background-color: #0E317E;
+    opacity: 1;
+    margin: 0 10px;
+    top: 45%;
+}
+
+.testimonial-card {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.testimonial-image {
+    width: 140px;
+    height: 140px;
+}
+
+.testimonial-text {
+    color: #ACB1C4;
+    padding: 15px 0 20px;
+    border-bottom: 1px solid #DFE0E1;
+}
+
+.testimony-name {
+    color: #5B7FBD;
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.footer-section {
+    background-color: #0d3d94;
+    padding: 100px 0;
+    color: #fff;
+}
+
+.footer-text {
+    padding-top: 10px;
+    color: #f8f1f4;
+}
+
+.footer-links a {
+    color: #f8f1f4;
+    display: block;
+    padding: 5px 0;
+}
+
+.fa {
+    padding: 13px;
+    font-size: 13px;
+    width: 38px;
+    text-align: center;
+    text-decoration: none;
+    background: #fff;
+    color: #CCB5BF;
+    border-radius: 20px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color: #CCB5BF;
+    text-decoration: none;
+}
+
+.copyrights-section {
+    padding: 10px;
+    background-color: #E3EEEF;
+    vertical-align: middle;
+    font-size: 16px;
+    padding: 20px;
+    color: #7C93BD;
+}
+
+
+.social-icons a {
+    margin-right: 5px;
+}
+
+.text-section{
+    margin-top: 24%;
+}
+
+@media (max-width: 767.98px) {
+    .container {
+        width: inherit;
+        max-width: inherit;
+    }
+    .logo-section{
+        text-align: center;
+    }
+
+    .list {
+        float: none;
+        color: #fff;
+        display: block;
+        padding-left: 0;
+    }
+    .banner-image {
+        width: 100%;
+    }
+
+    .banner-content-section {
+        padding: 40px 0px 40px 0px;
+    }
+
+    .banner-header-content {
+        max-width: 490 px;
+        text-align: initial;
+    }
+
+    .second-section {
+        padding: 27px 0px;
+    }
+
+    .second-section-content {
+        padding: 7px;
+        font-size: 12px;
+        margin-top: 20px;
+    }
+
+    .deserve-tile-content{
+        margin-left: 0;
+        width: 100%;
+        display: block !important;
+    }
+
+    .banner-image-section{
+        display: none;
+    }
+
+    .banner-content-section{
+        padding: 10px;
+        top: 30%;
+        position: static;
+    }
+
+    .banner-section{
+        padding: 10px;
+    }
+
+    .banner-image{
+        display: none;
+    }
+
+    .banner-header-content{
+        font-size: 17px;
+    }
+
+    .banner-content{
+        font-size: 12px;
+        margin-bottom: 20px;
+    }
+
+    .tiles-section {
+        position: static;
+        bottom: 0
+    }
+
+    .tile-icon{
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .testimonials-section,
+    .robust-section{
+        padding: 30px 10px 50px;
+    }
+
+    .cust-button{
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .tiles-section .row{
+        margin: 0;
+    }
+
+    .marketing{
+        padding: 25px;
+    }
+
+    .better-section-wrapper{
+        padding: 50px 40px;
+    }
+
+    .text-section{
+        margin-top: 0;
+    }
+
+}
+
+
+@media (max-width: 991.98px) {
+
+    .tiles-section {
+        bottom: -130px;
+    }
+
+    .banner-content-section{
+        top: 17%;
+    }
+    
+    .social-icons a {
+        margin-bottom: 10px;
+    }
+    
+    .banner-image {
+        height: 82%;
+        width: 100%;
+        margin: 47px 0px 0px 0px;
+    }
+    
+}
+
+
